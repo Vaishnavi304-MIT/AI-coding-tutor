@@ -48,7 +48,6 @@ An AI Coding Tutor that:
 
 * Ask any coding question
 * Get clear explanations with examples
-* Works like ChatGPT for programming
 
 ---
 
@@ -113,7 +112,6 @@ An AI Coding Tutor that:
 * 👨‍🎓 Students
 * 👩‍💻 Beginners
 * 📚 DSA learners
-* 💼 Interview candidates
 * 🏫 Institutions
 
 ---
