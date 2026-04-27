@@ -163,7 +163,7 @@ An AI Coding Tutor that:
 ## 👩‍💻 Author
 
 **Vaishnavi Shinde**
-MIT Academy of Engineering
+MIT Academy of Engineering, Electronics Engineering  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-shinde-40190b2b1/)
 
