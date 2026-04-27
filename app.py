@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 # ============================================================
 # CONFIG
 # ============================================================
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "enter the Groq key"
 
 llm = ChatGroq(
     model="llama-3.1-8b-instant",
